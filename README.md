@@ -6,7 +6,7 @@ sleep time. This app will show the complete analysis (week , month , yearly ) by
 ![Landing Screen](https://github.com/W0lFi3-IND/WaterReminerApp/blob/master/WhatsApp%20Image%202020-03-30%20at%2022.28.15%20(2).jpeg)
 ![Select Age and Weight Screen ](https://github.com/W0lFi3-IND/WaterReminerApp/blob/master/WhatsApp%20Image%202020-03-30%20at%2022.28.15%20(1).jpeg)
 ![Intakes of water you need Screen](https://github.com/W0lFi3-IND/WaterReminerApp/blob/master/WhatsApp%20Image%202020-03-30%20at%2022.28.15.jpeg)
-![Home Screen]https://github.com/W0lFi3-IND/WaterReminerApp/blob/master/WhatsApp%20Image%202020-03-30%20at%2022.28.15%20(3).jpeg)
+![Home Screen](https://github.com/W0lFi3-IND/WaterReminerApp/blob/master/WhatsApp%20Image%202020-03-30%20at%2022.28.15%20(3).jpeg)
 ![History Screen](https://github.com/W0lFi3-IND/WaterReminerApp/blob/master/WhatsApp%20Image%202020-03-30%20at%2022.28.15%20(4).jpeg)
 ![Settings Screen](https://github.com/W0lFi3-IND/WaterReminerApp/blob/master/WhatsApp%20Image%202020-03-30%20at%2022.28.15%20(5).jpeg)
 
